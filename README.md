@@ -4,7 +4,7 @@
 ## About Me   💫
 * 🔭 I’m currently working on Flutter and Android Native.
 * 🔥 Mobile Application Developer at Planet Beyond Uk.
-* 🙋‍♂️ Former Management Team Lead of Industrial Liaison Cell  [COMSATS Islamabad][dsccui]
+* 🙋‍♂️ Former Management Team Lead of Industrial Liaison Cell[COMSATS Islamabad][dsccui]
 * 🌱 I’m currently learning more about Cyber Security and advanced BloC Architecture.
 * 👯 I’m looking to collaborate on Flutter projects.
 * 💬 Ask me about Flutter or any tech-related stuff.
