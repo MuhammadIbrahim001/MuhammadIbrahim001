@@ -7,7 +7,6 @@
 * 🌱 I’m currently learning more about Cyber Security and advanced BloC Architecture.
 * 👯 I’m looking to collaborate on Flutter projects.
 * 💬 Ask me about Flutter or any tech-related stuff.
-* 📫 How to reach me: Linkedin-@muhammad-ibrahim001
 * 😄 Pronouns: Dev/Deve
 * ⚡ Fun fact: I am really good at learning new things.
 
